@@ -1,8 +1,5 @@
 """
-ESE 568 Project 3
 @author: Yun Chen
-@ID# 114702519
-Fall 2022
 """
 import cv2
 import numpy as np
